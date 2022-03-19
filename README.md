@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[img align="left" alt="jaffi59720827 | twitter" width=22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[twitter]
 
 
 
